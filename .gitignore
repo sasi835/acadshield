@@ -28,6 +28,7 @@ dist/
 */dist/
 build/
 */build/
+*.tsbuildinfo
 
 # Hardhat / Smart Contracts
 artifacts/
